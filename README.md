@@ -2,7 +2,7 @@
 My final year project based on Object detection 
 
 
-Abstract-- As cities grow, there is a need for innovative
+**Abstract**-- As cities grow, there is a need for innovative
 parking systems to help drivers identify nearby parking
 spots. Developed countries have conducted extensive studies
 on such systems. Car parking management systems fall into
