@@ -1,5 +1,5 @@
 # AAI-800-820
-My final year project based on Object detection 
+My final year project was based on Object detection 
 
 
 **Abstract**-- As cities grow, there is a need for innovative
@@ -26,7 +26,7 @@ have a tangible impact on a business's bottom line.
 After all, if people are spending more money on gas and less time
 actually patronizing establishments, that's revenue that's being
 lost. And the problem extends far beyond individual companies -
-the time and fuel wasted on parking searches contributes to
+The time and fuel wasted on parking searches contribute to
 broader urban traffic congestion, which is an economic and
 environmental drain on entire communities.
 Compounding the issue is the fact that urban planners and
@@ -38,7 +38,7 @@ available spots and alleviate the constant search.
 The good news is that solutions are emerging to address this
 challenge. By leveraging technology to quickly guide drivers to
 open parking spaces, cities can not only improve the customer
-experience, but also reduce traffic congestion and its associated
+experience but also reduce traffic congestion and its associated
 costs. This represents a win-win scenario that urban areas should
 be prioritizing as they work to create more livable, sustainable
 communities.
